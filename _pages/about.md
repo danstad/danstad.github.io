@@ -13,20 +13,20 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
 [Here a link to my CV](http://academicpages.github.io/files/paper1.pdf)
 
 ## Working Papers
-* Elections and Inefficiency in the Allocation of Street Pavement Contracts in Mexico. (Draft comming soon)
+* Elections and Inefficiency in the Allocation of Street Pavement Contracts in Mexico. (_Draft comming soon_)
   <details>
   <summary>Abstract</summary>
   Text...
   </details> 
     
-* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://academicpages.github.io/files/paper1.pdf) (R&R World Development)
+* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://academicpages.github.io/files/paper1.pdf) (_R&R World Development_)
   * (with Paul Glewwe, Phillip Ross, and Bruce Wydick)  
   <details>
   <summary>Abstract</summary>
   Text...
   </details>
     
- * [International Child Sponsorship Impact on the Intended Choice of Acquiring a Higher Education Degree: the Case of Rural Mexico.](http://academicpages.github.io/files/paper2.pdf) (Submitted)
+ * [International Child Sponsorship Impact on the Intended Choice of Acquiring a Higher Education Degree: the Case of Rural Mexico.](http://academicpages.github.io/files/paper2.pdf) (_Submitted_)
   * <details>
     <summary>Abstract</summary>
     Text...
