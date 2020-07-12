@@ -14,10 +14,7 @@ Welcome! I am PhD candidate in Economics at Rice University. My research interes
 
 ### Working Papers
 * Elections and Inefficiency in the Allocation of Street Pavement Contracts in Mexico. - _Draft comming soon_
-    <details>
-    <summary>Abstract</summary>
-    Text...
-    </details> 
+
     
 * [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://danstad.github.io/files/WP_aspirations1.pdf) (with Paul Glewwe, Phillip Ross, and Bruce Wydick). - _Revise & Resubmit, World Development_  
   <details>
@@ -39,5 +36,5 @@ Welcome! I am PhD candidate in Economics at Rice University. My research interes
 ### Book Chapters 
 
 * Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline
-Industry, (with Levent Kutlu and Robin Sickles). (_forthcoming_). in R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II of the Handbook of Production
+Industry, (with Levent Kutlu and Robin Sickles). (_Forthcoming_). In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II of the Handbook of Production
 Economics, New York: Springer.
