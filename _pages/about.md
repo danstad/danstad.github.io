@@ -13,17 +13,17 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
 [Here a link to my CV](http://academicpages.github.io/files/paper1.pdf)
 
 ## Working Papers
-*[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-  *<details>
-  <summary>Abstract</summary>
-  Text...
-  </details>
-*[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-  *(with Paul Glewwe, Phillip Ross, and Bruce Wydick) R&R World Development 
-  *<details>
-  <summary>Abstract</summary>
-  Text...
-  </details>
+* [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+  * <details>
+    <summary>Abstract</summary>
+    Text...
+    </details>
+* [Download paper here](http://academicpages.github.io/files/paper2.pdf)
+  * (with Paul Glewwe, Phillip Ross, and Bruce Wydick) R&R World Development 
+  * <details>
+    <summary>Abstract</summary>
+    Text...
+    </details>
  
 Getting started
 ======
