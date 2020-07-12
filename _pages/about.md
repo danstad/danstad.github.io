@@ -39,4 +39,6 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
  
 ### Chapters in Books 
 
-* Airline chapter
+* Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline
+Industry, (_forthcoming_) 
+  * in R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II of the Handbook of Production Economics, with Levent Kutlu and Robin Sickles
