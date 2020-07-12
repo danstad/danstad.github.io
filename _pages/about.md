@@ -37,3 +37,10 @@ Welcome! I am PhD candidate in Economics at Rice University. My research focuses
 * Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline
 Industry, (with Levent Kutlu and Robin Sickles). (_Forthcoming_). In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II of the Handbook of Production
 Economics, New York: Springer.
+
+### Publications (Pre - PhD)
+
+* A Long-Term Employment Deprivation Index for Mexico. (with Roc\'io Garc\'ia). 2017. _Estudios Económicos_, 32(1):133-65
+*
+*
+
