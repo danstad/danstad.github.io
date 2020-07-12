@@ -14,7 +14,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 # A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Abstract</summary>
   
   ## Heading
   1. A numbered
