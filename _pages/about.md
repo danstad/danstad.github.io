@@ -14,7 +14,7 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
 
 ## Working Papers
 * [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-  * <details>
+  <details>
     <summary>Abstract</summary>
     Text...
     </details>
