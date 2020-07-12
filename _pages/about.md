@@ -19,7 +19,7 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
     Text...
     </details> 
     
-* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://danstad.github.io/files/WP_aspirations1.pdf) (_R&R - World Development_)
+* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://danstad.github.io/files/WP_aspirations1.pdf) (_Revise & Resubmit - World Development_)
   * (with Paul Glewwe, Phillip Ross, and Bruce Wydick)  
   <details>
   <summary>Abstract</summary>
@@ -41,4 +41,4 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
 
 * Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline
 Industry, (_forthcoming_) 
-  * in R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II of the Handbook of Production Economics, with Levent Kutlu and Robin Sickles
+  * Volume II of the Handbook of Production Economics, with Levent Kutlu and Robin Sickles
