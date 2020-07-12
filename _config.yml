@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "PhD Candidate in Economics, Rice University"
+  name             : ""
   avatar           : "danielProfilePic2.jpg"
-  bio              : "Email: danielprudencio@rice.edu"
+  bio              : "PhD Candidate in Economics, Rice University"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
