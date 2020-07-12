@@ -12,8 +12,10 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
 
 [Link to my CV](http://academicpages.github.io/files/paper1.pdf)
 
-**Contact Information**
+*Contact Information*
+
 Email: danielprudencio[at]rice.edu
+
 Phone: (+1) 832-540-6488
 
 ## Working Papers
