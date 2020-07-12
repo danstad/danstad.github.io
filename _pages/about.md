@@ -10,24 +10,14 @@ redirect_from:
 
 Welcome! I am PhD candidate in Economics at Rice University. My research lies in the intersection between applied industrial organization and education economics, with development economics.
 
-[Link to my CV](http://academicpages.github.io/files/paper1.pdf)
-
-*Contact Information*
-
-Email: danielprudencio[at]rice.edu
-
-Phone: (+1) 832-540-6488
+[Here a link to my CV](http://academicpages.github.io/files/paper1.pdf)
 
 ## Working Papers
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 <details>
   <summary>Abstract</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+Text...
 </details>
 
 Getting started
