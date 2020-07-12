@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am PhD candidate in Economics at Rice University. My research focuses on the intersection of applied industrial organization and development economics, as well as in the study of education economics.
+Welcome! I am PhD candidate in Economics at Rice University. My research focuses on the intersection of applied industrial organization and development economics, and in the study of education economics.
 
 [Here a link to my CV](http://academicpages.github.io/files/paper1.pdf)
 
