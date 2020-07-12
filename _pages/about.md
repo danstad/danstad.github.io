@@ -21,21 +21,23 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
     Text...
     </details> 
     
-* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence
-from Kenya, Indonesia, and Mexico](http://academicpages.github.io/files/paper2.pdf) (R&R World Development)
+* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico. (http://academicpages.github.io/files/paper2.pdf) (R&R World Development)
   * (with Paul Glewwe, Phillip Ross, and Bruce Wydick)  
   * <details>
     <summary>Abstract</summary>
     Text...
     </details>
     
- * [International Child Sponsorship Impact on the Intended Choice of
-Acquiring a Higher Education Degree: the Case of Rural Mexico](http://academicpages.github.io/files/paper3.pdf) (Submitted)
-   
+ * [International Child Sponsorship Impact on the Intended Choice of Acquiring a Higher Education Degree: the Case of Rural Mexico.](http://academicpages.github.io/files/paper3.pdf) (Submitted)
   * <details>
     <summary>Abstract</summary>
     Text...
     </details>
+ 
+## Work in Progress 
+
+* Whose opinion matters most for the choice of major? The relative influence of parents, teachers and peers.
+* Students’ willingness to pay for university attributes.
  
 Getting started
 ======
