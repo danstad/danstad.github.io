@@ -19,7 +19,7 @@ Welcome! I am PhD candidate in Economics at Rice University. My research lies in
   Text...
   </details> 
     
-* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://academicpages.github.io/files/paper1.pdf) (_R&R World Development_)
+* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://academicpages.github.io/files/paper1.pdf) (_R&R - World Development_)
   * (with Paul Glewwe, Phillip Ross, and Bruce Wydick)  
   <details>
   <summary>Abstract</summary>
