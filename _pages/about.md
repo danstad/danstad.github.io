@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome! I am PhD candidate in Economics at Rice University. My research focuses on the intersection of applied industrial organization and development economics, and on the study of education economics.
 
-Here the links to: [my academic CV](http://danstad.github.io/files/paper1.pdf), and [my professional CV](http://danstad.github.io/files/paper2.pdf).
+Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academic.pdf), and [my professional CV](http://danstad.github.io/files/CV_DP_Professional.pdf).
+
+***
 
 ### Working Papers
 * Elections and Inefficiency in the Allocation of Street Pavement Contracts in Mexico. - _Draft comming soon_
