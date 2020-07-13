@@ -32,8 +32,8 @@ Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academi
 
 ### Work in Progress 
 
-* Whose opinion matters most for the choice of major? The relative influence of parents, teachers and peers.
-* Students’ willingness to pay for university attributes.
+* Whose Opinion Matters Most for the Choice of a Major? The Relative Influence of Parents, Teachers and Peers.
+* Students' Willingness to Pay for University Attributes.
 
 ***
 
@@ -49,5 +49,5 @@ Economics, New York: Springer.
 
 * A Long-Term Employment Deprivation Index for Mexico. (with Rocío García). 2017. _Estudios Económicos_, 32(1):133-65.
 * A Shapley Decomposition of Multidimensional Chronic Poverty in Argentina. (with Rocío García). 2017. _Bulletin of Economic Research_, 69(1):23-41.
-* Los efectos del Fondo de Aportaciones para la Infraestructura Social sobre la pobreza en México. 2014. _Región y Sociedad_, 26(60):63-88.
+* Los Efectos del Fondo de Aportaciones para la Infraestructura Social Sobre la Pobreza en México. 2014. _Región y Sociedad_, 26(60):63-88.
 
