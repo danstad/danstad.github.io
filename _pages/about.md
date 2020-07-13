@@ -40,7 +40,7 @@ Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academi
 ### Book Chapters 
 
 * Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline
-Industry, (with Levent Kutlu and Robin Sickles). (_Forthcoming_). In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II of the Handbook of Production
+Industry. (with Levent Kutlu and Robin Sickles). _Forthcoming_. In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II of the Handbook of Production
 Economics, New York: Springer.
 
 ***
