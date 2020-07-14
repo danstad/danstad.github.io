@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am PhD candidate in Economics at Rice University. My research focuses on the intersection of applied industrial organization and development economics, and on the study of education economics.
+Welcome! I am PhD candidate in Economics at Rice University. My research focuses on education economics, and on the intersection of applied industrial organization and development economics.
 
 Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academic.pdf), and [my professional CV](http://danstad.github.io/files/CV_DP_Professional.pdf).
 
