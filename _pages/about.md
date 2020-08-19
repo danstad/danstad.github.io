@@ -49,5 +49,5 @@ Economics, New York: Springer.
 
 * A Long-Term Employment Deprivation Index for Mexico. (with Rocío García). 2017. _Estudios Económicos_, 32(1):133-65.
 * A Shapley Decomposition of Multidimensional Chronic Poverty in Argentina. (with Rocío García). 2017. _Bulletin of Economic Research_, 69(1):23-41.
-* Los Efectos del Fondo de Aportaciones para la Infraestructura Social Sobre la Pobreza en México. 2014. _Región y Sociedad_, 26(60):63-88.
+* Los Efectos del Fondo de Aportaciones para la Infraestructura Social Sobre la Pobreza en México. (with Fernando Ramones). 2014. _Región y Sociedad_, 26(60):63-88.
 
