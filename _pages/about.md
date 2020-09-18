@@ -19,7 +19,7 @@ Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academi
 ### Working Papers
 * Elections and Productivity in Procurement Auctions of Pavement Contracts in Mexico. - _Draft comming soon_
 
-* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://danstad.github.io/files/WP_aspirations1.pdf) (with Paul Glewwe, Phillip Ross, and Bruce Wydick). - _Revision submitted, World Development_  
+* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](http://danstad.github.io/files/WP_aspirations1.pdf) (with [Paul Glewwe](https://www.apec.umn.edu/people/paul-glewwe), [Phillip Ross](https://sites.google.com/site/philliphross/), and [Bruce Wydick](https://sites.google.com/a/usfca.edu/wydick/home)). - _Revision submitted, World Development_  
   <details> <summary>Abstract</summary> The role of aspirations in facilitating movement out of poverty is a subject of increasing research in development economics. Previous work finds positive impacts from international child sponsorship on educational attainment, employment, and adult income. This paper seeks to ascertain whether the impacts of child sponsorship on educational outcomes may occur through elevated aspirations among sponsored children. Using an age-eligibility rule applied during program rollout to identify causal effects, we study whether international child sponsorship increases educational and vocational aspirations among a sample of 2,022 children in Kenya, Indonesia, and Mexico. While effects are heterogeneous, and strongest in Kenya, we find that, averaging over the three countries, sponsorship increased indices of self-esteem (0.25), optimism (0.26), aspirations (0.29) standard deviations respectively, and expected years of completed education (0.43 years). We find that sponsorship increases actual grade completion by 0.56 among children at the time of the survey, and mediation analysis suggests that the impact of sponsorship on aspirations is likely to mediate higher levels of grade completion. Our results contribute to a growing body of evidence indicating that the positive impacts of child sponsorship stem partly through elevating aspirations. More generally, our research contributes to a larger literature suggesting that the alleviation of internal constraints among the poor is a strong complement to addressing their external constraints. </details>
 
  * [International Child Sponsorship Impact on the Intended Choice of Acquiring a Higher Education Degree: the Case of Rural Mexico.](http://danstad.github.io/files/WP_aspirations2_DP.pdf) - _Submitted_
@@ -37,14 +37,14 @@ Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academi
 ### Book Chapters 
 
 * Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline
-Industry. (with Levent Kutlu and Robin Sickles). _Forthcoming_. In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production
+Industry. (with [Levent Kutlu](https://faculty.utrgv.edu/levent.kutlu/index.html) and [Robin Sickles](https://rsickles.rice.edu/)). _Forthcoming_. In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production
 Economics, New York: Springer.
 
 ***
 
 ### Publications (Pre - PhD)
 
-* A Long-Term Employment Deprivation Index for Mexico. (with Rocío García). 2017. _Estudios Económicos_, 32(1):133-65.
-* A Shapley Decomposition of Multidimensional Chronic Poverty in Argentina. (with Rocío García). 2017. _Bulletin of Economic Research_, 69(1):23-41.
+* A Long-Term Employment Deprivation Index for Mexico. (with [Rocío García](https://homepages.mty.itesm.mx/Sitios%20a%20dar%20de%20baja%20(UPD%2012%20MAR%202019)/rociogarcia/)). 2017. _Estudios Económicos_, 32(1):133-65.
+* A Shapley Decomposition of Multidimensional Chronic Poverty in Argentina. (with [Rocío García](https://homepages.mty.itesm.mx/Sitios%20a%20dar%20de%20baja%20(UPD%2012%20MAR%202019)/rociogarcia/)). 2017. _Bulletin of Economic Research_, 69(1):23-41.
 * Los Efectos del Fondo de Aportaciones para la Infraestructura Social Sobre la Pobreza en México. (with Fernando Ramones). 2014. _Región y Sociedad_, 26(60):63-88.
 
