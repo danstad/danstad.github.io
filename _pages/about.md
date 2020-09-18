@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am PhD candidate in Economics at Rice University. My research focuses on education economics, and on the intersection of applied industrial organization and development economics.
 
-*I am currently on the Job Market (2020-21). I will be available for interviews at the 2020 EEA Virtual Meeting, Nottingham, and the 2021 ASSA Online Meeting, Chicago.*
+**I am currently on the Job Market (2020-21). I will be available for interviews at the 2020 EEA Virtual Meeting, Nottingham, and the 2021 ASSA Online Meeting, Chicago.**
 
 Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academic.pdf), and [my professional CV](http://danstad.github.io/files/CV_DP_Professional.pdf).
 
