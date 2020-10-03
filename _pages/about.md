@@ -12,7 +12,7 @@ Welcome! I am PhD candidate in Economics at Rice University. My research focuses
 
 **I am currently on the Job Market (2020-21)**, and I will be available for interviews at the 2020 EJM/ESWM and 2021 ASSA Virtual Meetings.
 
-Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academic.pdf), and [my professional CV](http://danstad.github.io/files/CV_DP_Professional.pdf).
+Here the links to: [my academic CV](http://danstad.github.io/files/CV_DP_Academic.pdf) and [my professional CV](http://danstad.github.io/files/CV_DP_Professional.pdf).
 
 ***
 
