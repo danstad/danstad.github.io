@@ -72,11 +72,11 @@ social:
 
 
 # Analytics
-analytics:
- provider               :  "google" # false (default), "google", "google-universal", "custom"
-  google:
-   tracking_id          : "UA-185350913-1" 
-#google_analytics         : "UA-185350913-1"
+#analytics:
+# provider               :  "google" # false (default), "google", "google-universal", "custom"
+#  google:
+#   tracking_id          : "UA-185350913-1" 
+google_analytics         : "UA-185350913-1"
 
 # Site Author
 author:
