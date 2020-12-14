@@ -49,7 +49,7 @@ Here is the links to my [CV](http://danstad.github.io/files/CV_DP_Academic.pdf).
 
 ### Book Chapters 
 
-* Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline
+* [Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline](https://link.springer.com/referenceworkentry/10.1007/978-981-10-3450-3_1-1)
 Industry. (with [Levent Kutlu](https://faculty.utrgv.edu/levent.kutlu/index.html) and [Robin Sickles](https://rsickles.rice.edu/)). _Forthcoming_. In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production
 Economics, New York: Springer.
 
@@ -57,7 +57,7 @@ Economics, New York: Springer.
 
 ### Publications (Pre - PhD)
 
-* A Long-Term Employment Deprivation Index for Mexico. (with [Rocío García](https://homepages.mty.itesm.mx/Sitios%20a%20dar%20de%20baja%20(UPD%2012%20MAR%202019)/rociogarcia/)). 2017. _Estudios Económicos_, 32(1):133-65.
-* A Shapley Decomposition of Multidimensional Chronic Poverty in Argentina. (with [Rocío García](https://homepages.mty.itesm.mx/Sitios%20a%20dar%20de%20baja%20(UPD%2012%20MAR%202019)/rociogarcia/)). 2017. _Bulletin of Economic Research_, 69(1):23-41.
+* [A Long-Term Employment Deprivation Index for Mexico.](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/5) (with [Rocío García](https://homepages.mty.itesm.mx/Sitios%20a%20dar%20de%20baja%20(UPD%2012%20MAR%202019)/rociogarcia/)). 2017. _Estudios Económicos_, 32(1):133-65.
+* [A Shapley Decomposition of Multidimensional Chronic Poverty in Argentina.](https://onlinelibrary.wiley.com/doi/full/10.1111/boer.12082) (with [Rocío García](https://homepages.mty.itesm.mx/Sitios%20a%20dar%20de%20baja%20(UPD%2012%20MAR%202019)/rociogarcia/)). 2017. _Bulletin of Economic Research_, 69(1):23-41.
 * Los Efectos del Fondo de Aportaciones para la Infraestructura Social Sobre la Pobreza en México. (with Fernando Ramones). 2014. _Región y Sociedad_, 26(60):63-88.
 
