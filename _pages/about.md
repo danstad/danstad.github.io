@@ -49,9 +49,7 @@ Here is the links to my [CV](http://danstad.github.io/files/CV_DP_Academic.pdf).
 
 ### Book Chapters 
 
-* [Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline](https://link.springer.com/referenceworkentry/10.1007/978-981-10-3450-3_1-1)
-Industry. (with [Levent Kutlu](https://faculty.utrgv.edu/levent.kutlu/index.html) and [Robin Sickles](https://rsickles.rice.edu/)). _Forthcoming_. In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production
-Economics, New York: Springer.
+* [Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline Industry.](https://link.springer.com/referenceworkentry/10.1007/978-981-10-3450-3_1-1) (with [Levent Kutlu](https://faculty.utrgv.edu/levent.kutlu/index.html) and [Robin Sickles](https://rsickles.rice.edu/)). _Forthcoming_. In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production Economics, New York: Springer.
 
 ***
 
