@@ -23,7 +23,7 @@ Here is the links to my [CV](http://danstad.github.io/files/CV_DP_Academic.pdf).
 
 ### Publications
 
-* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](https://authors.elsevier.com/c/1cRVd,6yxDEMZs) (with [Paul Glewwe](https://www.apec.umn.edu/people/paul-glewwe), [Phillip Ross](https://sites.google.com/site/philliphross/), and [Bruce Wydick](https://sites.google.com/a/usfca.edu/wydick/home)). - _World Development_, 2021  
+* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](https://authors.elsevier.com/c/1cRVd,6yxDEMZs) (with [Paul Glewwe](https://www.apec.umn.edu/people/paul-glewwe), [Phillip Ross](https://sites.google.com/site/philliphross/), and [Bruce Wydick](https://sites.google.com/a/usfca.edu/wydick/home)). - _World Development_, April 2021  
   <details> <summary>Abstract</summary> The role of aspirations in facilitating movement out of poverty is a subject of increasing research in development economics. Previous work finds positive impacts from international child sponsorship on educational attainment, employment, and adult income. This paper seeks to ascertain whether the impacts of child sponsorship on educational outcomes may occur through elevated aspirations among sponsored children. Using an age-eligibility rule applied during program rollout to identify causal effects, we study whether international child sponsorship increases educational and vocational aspirations among a sample of 2,022 children in Kenya, Indonesia, and Mexico. While effects are heterogeneous, and strongest in Kenya, we find that, averaging over the three countries, sponsorship increased indices of self-esteem (0.25), optimism (0.26), aspirations (0.29) standard deviations respectively, and expected years of completed education (0.43 years). We find that sponsorship increases actual grade completion by 0.56 among children at the time of the survey, and mediation analysis suggests that the impact of sponsorship on aspirations is likely to mediate higher levels of grade completion. Our results contribute to a growing body of evidence indicating that the positive impacts of child sponsorship stem partly through elevating aspirations. More generally, our research contributes to a larger literature suggesting that the alleviation of internal constraints among the poor is a strong complement to addressing their external constraints. </details>
 
 *** 
@@ -49,7 +49,7 @@ Here is the links to my [CV](http://danstad.github.io/files/CV_DP_Academic.pdf).
 
 ### Book Chapters 
 
-* [Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline Industry.](https://link.springer.com/referenceworkentry/10.1007/978-981-10-3450-3_1-1) (with [Levent Kutlu](https://faculty.utrgv.edu/levent.kutlu/index.html) and [Robin Sickles](https://rsickles.rice.edu/)). _Forthcoming_. In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production Economics, New York: Springer.
+* [Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline Industry.](https://link.springer.com/referenceworkentry/10.1007/978-981-10-3450-3_1-1) (with [Levent Kutlu](https://faculty.utrgv.edu/levent.kutlu/index.html) and [Robin Sickles](https://rsickles.rice.edu/)). (2020). In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production Economics. Springer, Singapur
 
 ***
 
