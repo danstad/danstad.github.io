@@ -12,7 +12,7 @@ Welcome! I am a PhD candidate in Economics at Rice University. My research focus
 
 **I am currently on the Job Market (2020-21)**, and I will be available for interviews at the 2020 EJM/ESWM and the 2021 ASSA Virtual Meetings.
 
-Here is the links to my [CV](http://danstad.github.io/files/CV_DP_Academic.pdf).
+Here is the links to my [CV](http://danstad.github.io/files/CV - Daniel Prudencio.pdf).
 
 
 *** 
