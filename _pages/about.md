@@ -15,20 +15,12 @@ Welcome! I am a PhD candidate in Economics at Rice University. My research focus
 Here is the links to my [CV](http://danstad.github.io/files/CV_DP_Academic.pdf).
 
 
-### Job Market Paper
-* [Elections and Productivity in Procurement Auctions of Pavement Contracts in Mexico.](http://danstad.github.io/files/JMP_Daniel_Prudencio.pdf) 
-  <details> <summary>Abstract</summary> When allocating contracts, governments decide between exercising hiring discretion or allowing a higher level of competition without firm selection. Ex-ante, it is not clear which allocation mechanism will lead to better outcomes. The trade-off depends in part on the government’s ability to select the best firms when restricting competition and on the probability that this practice will lead to corruption. In this paper, I study the allocation of street pavement contracts in Mexico and combine auction methods with an analysis of the firms' productivity to test whether local governments select the most cost-efficient firms when restricting competition. Furthermore, I study the firms' behavior under different auction formats. I find that firms selected to settings with less competition are more experienced and have lower costs in complex pavement projects, but have higher costs in simple ones. When comparing auction formats, firms are more aggressive under auctions by invitation than in public auctions in complex projects, but bid similarly under both auction formats in simple projects. Contrary to the current practice, the results suggest that the government would benefit from opening up simple projects to public auctions. The use of auctions by invitation for complex projects seems warranted, but mixed results on the influence of political factors raise concerns of misuse of a greater hiring discretion on the part of the government. </details>
-
-*** 
-
-### Publications
-
-* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](https://authors.elsevier.com/c/1cRVd,6yxDEMZs) (with [Paul Glewwe](https://www.apec.umn.edu/people/paul-glewwe), [Phillip Ross](https://sites.google.com/site/philliphross/), and [Bruce Wydick](https://sites.google.com/a/usfca.edu/wydick/home)). - _World Development_, April 2021  
-  <details> <summary>Abstract</summary> The role of aspirations in facilitating movement out of poverty is a subject of increasing research in development economics. Previous work finds positive impacts from international child sponsorship on educational attainment, employment, and adult income. This paper seeks to ascertain whether the impacts of child sponsorship on educational outcomes may occur through elevated aspirations among sponsored children. Using an age-eligibility rule applied during program rollout to identify causal effects, we study whether international child sponsorship increases educational and vocational aspirations among a sample of 2,022 children in Kenya, Indonesia, and Mexico. While effects are heterogeneous, and strongest in Kenya, we find that, averaging over the three countries, sponsorship increased indices of self-esteem (0.25), optimism (0.26), aspirations (0.29) standard deviations respectively, and expected years of completed education (0.43 years). We find that sponsorship increases actual grade completion by 0.56 among children at the time of the survey, and mediation analysis suggests that the impact of sponsorship on aspirations is likely to mediate higher levels of grade completion. Our results contribute to a growing body of evidence indicating that the positive impacts of child sponsorship stem partly through elevating aspirations. More generally, our research contributes to a larger literature suggesting that the alleviation of internal constraints among the poor is a strong complement to addressing their external constraints. </details>
-
 *** 
 
 ### Working Papers
+
+* [Elections and Productivity in Procurement Auctions of Pavement Contracts in Mexico.](http://danstad.github.io/files/JMP_Daniel_Prudencio.pdf) 
+  <details> <summary>Abstract</summary> When allocating contracts, governments decide between exercising hiring discretion or allowing a higher level of competition without firm selection. Ex-ante, it is not clear which allocation mechanism will lead to better outcomes. The trade-off depends in part on the government’s ability to select the best firms when restricting competition and on the probability that this practice will lead to corruption. In this paper, I study the allocation of street pavement contracts in Mexico and combine auction methods with an analysis of the firms' productivity to test whether local governments select the most cost-efficient firms when restricting competition. Furthermore, I study the firms' behavior under different auction formats. I find that firms selected to settings with less competition are more experienced and have lower costs in complex pavement projects, but have higher costs in simple ones. When comparing auction formats, firms are more aggressive under auctions by invitation than in public auctions in complex projects, but bid similarly under both auction formats in simple projects. Contrary to the current practice, the results suggest that the government would benefit from opening up simple projects to public auctions. The use of auctions by invitation for complex projects seems warranted, but mixed results on the influence of political factors raise concerns of misuse of a greater hiring discretion on the part of the government. </details>
 
 
 
@@ -47,15 +39,17 @@ Here is the links to my [CV](http://danstad.github.io/files/CV_DP_Academic.pdf).
 
 ***
 
-### Book Chapters 
-
-* [Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline Industry.](https://link.springer.com/referenceworkentry/10.1007/978-981-10-3450-3_1-1) (with [Levent Kutlu](https://faculty.utrgv.edu/levent.kutlu/index.html) and [Robin Sickles](https://rsickles.rice.edu/)). (2020). In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production Economics. Springer, Singapur
-
-***
-
-### Publications (Pre - PhD)
+### Publications
+* [Developing Educational and Vocational Aspirations through International Child Sponsorship: Evidence from Kenya, Indonesia, and Mexico.](https://authors.elsevier.com/c/1cRVd,6yxDEMZs) (with [Paul Glewwe](https://www.apec.umn.edu/people/paul-glewwe), [Phillip Ross](https://sites.google.com/site/philliphross/), and [Bruce Wydick](https://sites.google.com/a/usfca.edu/wydick/home)). - _World Development_, April 2021  
+  <details> <summary>Abstract</summary> The role of aspirations in facilitating movement out of poverty is a subject of increasing research in development economics. Previous work finds positive impacts from international child sponsorship on educational attainment, employment, and adult income. This paper seeks to ascertain whether the impacts of child sponsorship on educational outcomes may occur through elevated aspirations among sponsored children. Using an age-eligibility rule applied during program rollout to identify causal effects, we study whether international child sponsorship increases educational and vocational aspirations among a sample of 2,022 children in Kenya, Indonesia, and Mexico. While effects are heterogeneous, and strongest in Kenya, we find that, averaging over the three countries, sponsorship increased indices of self-esteem (0.25), optimism (0.26), aspirations (0.29) standard deviations respectively, and expected years of completed education (0.43 years). We find that sponsorship increases actual grade completion by 0.56 among children at the time of the survey, and mediation analysis suggests that the impact of sponsorship on aspirations is likely to mediate higher levels of grade completion. Our results contribute to a growing body of evidence indicating that the positive impacts of child sponsorship stem partly through elevating aspirations. More generally, our research contributes to a larger literature suggesting that the alleviation of internal constraints among the poor is a strong complement to addressing their external constraints. </details>
 
 * [A Long-Term Employment Deprivation Index for Mexico.](https://estudioseconomicos.colmex.mx/index.php/economicos/article/view/5) (with [Rocío García](https://homepages.mty.itesm.mx/Sitios%20a%20dar%20de%20baja%20(UPD%2012%20MAR%202019)/rociogarcia/)). 2017. _Estudios Económicos_, 32(1):133-65.
 * [A Shapley Decomposition of Multidimensional Chronic Poverty in Argentina.](https://onlinelibrary.wiley.com/doi/full/10.1111/boer.12082) (with [Rocío García](https://homepages.mty.itesm.mx/Sitios%20a%20dar%20de%20baja%20(UPD%2012%20MAR%202019)/rociogarcia/)). 2017. _Bulletin of Economic Research_, 69(1):23-41.
 * Los Efectos del Fondo de Aportaciones para la Infraestructura Social Sobre la Pobreza en México. (with Fernando Ramones). 2014. _Región y Sociedad_, 26(60):63-88.
+
+***
+
+### Book Chapters 
+
+* [Airline Economics: A Survey of Applied Issues in the Performance of the US and International Airline Industry.](https://link.springer.com/referenceworkentry/10.1007/978-981-10-3450-3_1-1) (with [Levent Kutlu](https://faculty.utrgv.edu/levent.kutlu/index.html) and [Robin Sickles](https://rsickles.rice.edu/)). (2020). In R. Chambers, S. Kumbhakar, and S. Ray (eds.), Volume II, Handbook of Production Economics. Springer, Singapur
 
