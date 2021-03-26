@@ -10,8 +10,6 @@ redirect_from:
 
 Welcome! I am a PhD candidate in Economics at Rice University. My research focuses on education economics, and on the intersection of applied industrial organization and development economics.
 
-**I am currently on the Job Market (2020-21)**, and I will be available for interviews at the 2020 EJM/ESWM and the 2021 ASSA Virtual Meetings.
-
 Here is the links to my [CV](http://danstad.github.io/files/CV_Daniel_Prudencio.pdf).
 
 
