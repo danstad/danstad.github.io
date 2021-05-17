@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I received my PhD in Economics from Rice University and will join the Tecnológico de Monterrey in the Fall of 2021 as an Economcis Assistant Professor. 
+Welcome to my website! I received my PhD in Economics from Rice University and will join the Tecnológico de Monterrey in the Fall of 2021 as an Economics Assistant Professor. 
 
 My research focuses on education economics, and on the intersection of applied industrial organization and development economics.
 
