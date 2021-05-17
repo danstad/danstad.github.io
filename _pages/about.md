@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in Economics at Rice University. My research focuses on education economics, and on the intersection of applied industrial organization and development economics.
+Welcome to my website! I received my PhD in Economics from Rice University and will join the Tecnológico de Monterrey in the Fall of 2021 as an Assistant Professor of Economics. My research focuses on education economics, and on the intersection of applied industrial organization and development economics.
 
-Here is the links to my [CV](http://danstad.github.io/files/CV_Daniel_Prudencio.pdf).
+Here the link to my [CV](http://danstad.github.io/files/CV_Daniel_Prudencio.pdf).
 
 
 *** 
